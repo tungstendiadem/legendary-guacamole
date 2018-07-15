@@ -15,5 +15,10 @@ namespace InCaseOf
         {
             throw new NotImplementedException();
         }
+
+        public bool CaseEquivalent (string inputString)
+        {
+             return inputString == inputString.ToLower() && inputString == inputString.ToUpper();
+        }
     }
 }
