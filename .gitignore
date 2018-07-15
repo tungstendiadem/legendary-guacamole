@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/legendary-guacamole/InCaseOf/obj
+/legendary-guacamole/.vs/legendary-guacamole/v15/Server/sqlite3
