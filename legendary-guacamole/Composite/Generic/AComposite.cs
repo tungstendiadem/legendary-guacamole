@@ -2,7 +2,7 @@
 
 namespace Composite
 {
-    public class Class1
+    abstract class AComposite<T>
     {
     }
 }
