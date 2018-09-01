@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Observer
 {
-    class Subject : ISubject
+    internal class Subject : ISubject
     {
         public Subject()
         {
