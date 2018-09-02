@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Builder\" />
     <Folder Include="DependencyInjection\" />
     <Folder Include="LazyInititalization\" />
     <Folder Include="Multiton\" />
