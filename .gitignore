@@ -3,8 +3,21 @@
 ################################################################################
 
 /legendary-guacamole/InCaseOf/obj
-/legendary-guacamole/.vs/legendary-guacamole/v15/Server/sqlite3
-/legendary-guacamole/.vs/legendary-guacamole/DesignTimeBuild/.dtbcache
-/legendary-guacamole/InCaseOf/bin/Debug/netcoreapp2.0
+/legendary-guacamole/.vs/legendary-guacamole/v15
+/legendary-guacamole/.vs/legendary-guacamole/DesignTimeBuild
+/legendary-guacamole/InCaseOf/bin
+/legendary-guacamole/InCaseOf/obj
 /legendary-guacamole/ConsoleApp1/obj
 /legendary-guacamole/ConsoleApp1/bin/Debug/netcoreapp2.0
+/legendary-guacamole/Composite/obj
+/legendary-guacamole/Decorator/obj
+/legendary-guacamole/Facade/obj
+/legendary-guacamole/Factory/obj
+/legendary-guacamole/Observer/obj
+/legendary-guacamole/Singleton/obj
+/legendary-guacamole/State/obj
+/legendary-guacamole/Strategy/obj
+/legendary-guacamole/Behavioral/obj
+/legendary-guacamole/Concurrency/obj
+/legendary-guacamole/Structural/obj
+/legendary-guacamole/Creational/obj

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Blackboard\" />
+    <Folder Include="ChainOfResponsibility\" />
+    <Folder Include="Command\" />
+    <Folder Include="Interpreter\" />
+    <Folder Include="Iterator\" />
+    <Folder Include="Moderator\" />
+    <Folder Include="Memento\" />
+    <Folder Include="Observer\Basic\" />
+    <Folder Include="Observer\Generic\" />
+    <Folder Include="Visitor\" />
+    <Folder Include="TemplateMethod\" />
+    <Folder Include="Specification\" />
+    <Folder Include="Servant\" />
+    <Folder Include="NullObject\" />
+  </ItemGroup>
+
+</Project>
