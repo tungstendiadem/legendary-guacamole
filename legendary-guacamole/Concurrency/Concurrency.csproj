@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ActiveObject\" />
+    <Folder Include="Balking\" />
+    <Folder Include="BindingProperties\" />
+    <Folder Include="ComputeKernel\" />
+    <Folder Include="DoubleCheckedLocking\" />
+    <Folder Include="EventBaaseAsynchronous\" />
+    <Folder Include="GuardedSuspension\" />
+    <Folder Include="Join\" />
+    <Folder Include="Lock\" />
+    <Folder Include="MessagingDesignPattern\" />
+    <Folder Include="MonitorObject\" />
+    <Folder Include="ThreadSpecificStorage\" />
+    <Folder Include="ThreadPool\" />
+    <Folder Include="Scheduler\" />
+    <Folder Include="ReadWriteLock\" />
+    <Folder Include="Reactor\" />
+  </ItemGroup>
+
+</Project>
