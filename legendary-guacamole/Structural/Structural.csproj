@@ -7,10 +7,7 @@
   <ItemGroup>
     <Folder Include="Adapter\" />
     <Folder Include="Bridge\" />
-    <Folder Include="Composite\" />
-    <Folder Include="Decorator\" />
     <Folder Include="Extension\" />
-    <Folder Include="Facade\" />
     <Folder Include="Flyweight\" />
     <Folder Include="FrontController\" />
     <Folder Include="Marker\" />

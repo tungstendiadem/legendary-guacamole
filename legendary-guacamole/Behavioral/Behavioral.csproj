@@ -12,13 +12,12 @@
     <Folder Include="Iterator\" />
     <Folder Include="Moderator\" />
     <Folder Include="Memento\" />
+    <Folder Include="Observer\Basic\" />
+    <Folder Include="Observer\Generic\" />
     <Folder Include="Visitor\" />
     <Folder Include="TemplateMethod\" />
-    <Folder Include="Strategy\" />
-    <Folder Include="State\" />
     <Folder Include="Specification\" />
     <Folder Include="Servant\" />
-    <Folder Include="Observer\" />
     <Folder Include="NullObject\" />
   </ItemGroup>
 
