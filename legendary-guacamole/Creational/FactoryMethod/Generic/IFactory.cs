@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Creational.Builder.Generic;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Factory
+namespace Creational.FactoryMethod.Generic
 {
     interface IFactory<T>
     {
-        void CreateFactory();
+        IProduct<T> GetProduct(EProducts eproduct);
     }
 }

@@ -1,28 +1,22 @@
 ﻿using System;
 
-namespace Factory
+namespace Creational.FactoryMethod.Basic
 {
     public class Factory : IFactory
     {
-        public void CreateFactory()
+        public IProduct GetProduct(EProducts eproduct)
         {
-            throw new NotImplementedException();
-        }
-    }
-
-    public class Plant : IFactory
-    {
-        public void CreateFactory()
-        {
-            throw new NotImplementedException();
-        }
-    }
-
-    public class WorkShop : IFactory
-    {
-        public void CreateFactory()
-        {
-            throw new NotImplementedException();
+            switch (eproduct)
+            {
+                case EProducts.Product01:
+                    return new Product01();
+                case EProducts.Product02:
+                    return new Product02();
+                case EProducts.ProductNN:
+                    return new ProductNN();
+                default:
+                    throw new NotSupportedException();
+            }
         }
     }
 }

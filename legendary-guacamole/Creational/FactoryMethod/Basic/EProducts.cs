@@ -4,8 +4,10 @@ using System.Text;
 
 namespace Creational.FactoryMethod.Basic
 {
-    interface IFactory
+    public enum EProducts
     {
-        IProduct GetProduct(EProducts eproduct);
+        Product01,
+        Product02,
+        ProductNN
     }
 }
