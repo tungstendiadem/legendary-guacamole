@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LazyInititalization\" />
     <Folder Include="Multiton\" />
     <Folder Include="ResourceAcquisitionIsInitialization\" />
     <Folder Include="Prototype\" />
