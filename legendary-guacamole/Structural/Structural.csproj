@@ -5,8 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Adapter\" />
-    <Folder Include="Bridge\" />
     <Folder Include="Extension\" />
     <Folder Include="Flyweight\" />
     <Folder Include="FrontController\" />

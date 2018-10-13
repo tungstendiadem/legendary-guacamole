@@ -6,5 +6,6 @@ namespace Creational.Prototype
 {
     interface IClone
     {
+        // ICloneable supercedes pattern?
     }
 }
