@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Factory
+namespace Creational.AbstractFactory.Basic
 {
     interface IFactory
     {
-        void CreateFactory();
+        void CreateProduct01();
+        void CreateProduct02();
+        void CreateProductNN();
     }
 }

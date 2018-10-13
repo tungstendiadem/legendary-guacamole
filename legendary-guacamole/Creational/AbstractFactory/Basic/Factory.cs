@@ -1,28 +1,23 @@
 ﻿using System;
 
-namespace Factory
+namespace Creational.AbstractFactory.Basic
 {
     public class Factory : IFactory
     {
-        public void CreateFactory()
+        public void CreateProduct01()
         {
-            throw new NotImplementedException();
+            Product01 product01 = new Product01();
+        }
+
+        public void CreateProduct02()
+        {
+            Product02 product02 = new Product02();
+        }
+
+        public void CreateProductNN()
+        {
+            ProductNN productNN = new ProductNN();
         }
     }
 
-    public class Plant : IFactory
-    {
-        public void CreateFactory()
-        {
-            throw new NotImplementedException();
-        }
-    }
-
-    public class WorkShop : IFactory
-    {
-        public void CreateFactory()
-        {
-            throw new NotImplementedException();
-        }
-    }
 }

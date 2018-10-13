@@ -3,17 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InCaseOf", "InCaseOf\InCaseOf.csproj", "{E34C1CA7-9B42-4496-86B4-57C4B1B75255}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational", "Creational\Creational.csproj", "{D109F142-7FBF-4E8B-AA97-2FA9351BBF64}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{11221A5A-C520-4A0A-AE96-BD13E548CEB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural", "Structural\Structural.csproj", "{B14A8AF7-ED45-415E-BFDA-33BBB2E7B77E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational", "Creational\Creational.csproj", "{D109F142-7FBF-4E8B-AA97-2FA9351BBF64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral", "Behavioral\Behavioral.csproj", "{39E6698E-7F39-474C-8050-77E6F71556EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural", "Structural\Structural.csproj", "{B14A8AF7-ED45-415E-BFDA-33BBB2E7B77E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral", "Behavioral\Behavioral.csproj", "{39E6698E-7F39-474C-8050-77E6F71556EE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrency", "Concurrency\Concurrency.csproj", "{C16F2CDF-F204-411C-B767-8CDC55D291FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concurrency", "Concurrency\Concurrency.csproj", "{C16F2CDF-F204-411C-B767-8CDC55D291FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,14 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E34C1CA7-9B42-4496-86B4-57C4B1B75255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E34C1CA7-9B42-4496-86B4-57C4B1B75255}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E34C1CA7-9B42-4496-86B4-57C4B1B75255}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E34C1CA7-9B42-4496-86B4-57C4B1B75255}.Release|Any CPU.Build.0 = Release|Any CPU
-		{11221A5A-C520-4A0A-AE96-BD13E548CEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11221A5A-C520-4A0A-AE96-BD13E548CEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11221A5A-C520-4A0A-AE96-BD13E548CEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11221A5A-C520-4A0A-AE96-BD13E548CEB2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D109F142-7FBF-4E8B-AA97-2FA9351BBF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D109F142-7FBF-4E8B-AA97-2FA9351BBF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D109F142-7FBF-4E8B-AA97-2FA9351BBF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
