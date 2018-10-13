@@ -5,10 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Multiton\" />
     <Folder Include="ResourceAcquisitionIsInitialization\" />
-    <Folder Include="Prototype\" />
-    <Folder Include="ObjectPool\" />
   </ItemGroup>
 
 </Project>
