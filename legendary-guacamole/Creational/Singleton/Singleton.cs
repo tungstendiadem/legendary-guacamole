@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Singleton
+namespace Creational.Singleton
 {
     public class Singleton
     {
